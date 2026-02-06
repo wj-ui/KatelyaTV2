@@ -198,22 +198,10 @@
       "detail": "https://wolongzyw.com",
       "is_adult": false
     },
-    "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "TV-天涯资源",
-      "detail": "https://tyyszy.com",
-      "is_adult": false
-    },
     "rycjapi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "TV-如意资源",
       "detail": "",
-      "is_adult": false
-    },
-    "xiaomaomi": {
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "TV-小猫咪资源",
-      "detail": "https://zy.xmm.hk",
       "is_adult": false
     },
     "xinlangapi": {
@@ -238,12 +226,6 @@
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "name": "TV-无尽资源",
       "detail": "",
-      "is_adult": false
-    },
-    "wwzy": {
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "name": "TV-旺旺短剧",
-      "detail": "https://wwzy.tv",
       "is_adult": false
     },
     "wwzy_api": {
@@ -318,12 +300,6 @@
       "detail": "https://www.hongniuzy2.com",
       "is_adult": false
     },
-    "maotaizy": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "TV-茅台资源",
-      "detail": "https://caiji.maotaizy.cc",
-      "is_adult": false
-    },
     "huyaapi": {
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "name": "TV-虎牙资源",
@@ -334,12 +310,6 @@
       "api": "https://caiji.dbzy.tv/api.php/provide/vod",
       "name": "TV-豆瓣资源",
       "detail": "https://caiji.dbzy.tv",
-      "is_adult": false
-    },
-    "dbzy": {
-      "api": "https://dbzy.tv/api.php/provide/vod",
-      "name": "TV-豆瓣资源",
-      "detail": "https://dbzy.tv",
       "is_adult": false
     },
     "hhzyapi": {
@@ -406,12 +376,6 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "TV-魔都资源",
       "detail": "https://www.mdzyapi.com",
-      "is_adult": false
-    },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "TV-黑木耳",
-      "detail": "https://json.heimuer.xyz",
       "is_adult": false
     },
     "heimuer02": {
