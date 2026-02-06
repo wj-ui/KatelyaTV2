@@ -119,7 +119,7 @@
       "api": "https://api.1080zyku.com/inc/apijson_vod.php",
       "name": "百度资源",
       "is_adult": false
-    }，
+    },
     "1080zyku": {
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "name": "TV-1080资源",
